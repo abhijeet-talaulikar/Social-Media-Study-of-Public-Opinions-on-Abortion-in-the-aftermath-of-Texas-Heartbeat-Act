@@ -7,3 +7,5 @@ Our study aims to gauge the public opinion on the law and thereby providing comm
 (3) Using BERT and a stacking model we predict public opinion on the divisive law and find that the movement varies across user characteristics. We show that the public opinion slants overwhelmingly negatively apropos the law. 
 
 To our best knowledge, this is the first large-scale social media study to understand public opinion on SB8.
+
+Read full report [here](https://drive.google.com/file/d/1thrgMqvhtC35YcznstLFSO6sWaP_6WH6/view?usp=sharing)

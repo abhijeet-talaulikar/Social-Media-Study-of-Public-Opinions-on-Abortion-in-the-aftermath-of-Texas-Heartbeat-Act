@@ -1,4 +1,4 @@
-## Social-Media-Study-of-Public-Opinions-on-Abortion-in-the-aftermath-of-Texas-Heartbeat-Act
+## Social Media Study of Public Opinions on Abortion in the aftermath of Texas Heartbeat Act
 
 Our study aims to gauge the public opinion on the law and thereby providing commentary into its political feasibility. We study the opinions of Twitter users across 30 states in the United States who actively tweeted during the commencement of the law and make three major contributions. 
 
